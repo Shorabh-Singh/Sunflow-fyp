@@ -7,6 +7,6 @@ function Analytics() {
       <Typography variant="h4">Storage Page</Typography>
     </div>
   );
-}
+} 
 
 export default Analytics;
